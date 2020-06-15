@@ -1,5 +1,5 @@
 {
-  "name": "canvas-sketch",
+  "name": "canvas-sketch-fork-cq",
   "version": "0.7.3",
   "isCanvasSketch": true,
   "description": "A utility for quickly prototyping 2D and WebGL sketches",
